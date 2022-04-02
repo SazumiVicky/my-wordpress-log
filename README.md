@@ -1,1 +1,1 @@
-# https://dev.sazumiviki.com/log
+# https://cdn.jsdelivr.net/gh/SazumiVicky/my-wordpress-log@main/log.xml
