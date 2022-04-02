@@ -1,1 +1,1 @@
-# my-wordpress-log
+# https://dev.sazumiviki.com/log
