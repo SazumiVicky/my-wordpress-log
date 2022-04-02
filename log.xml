@@ -1,0 +1,19 @@
+114.5.104.27 - _uid=2D231FAC77A647626C507C1C02050303 - 304 BYPASS  - - [02/Apr/2022:11:06:05 +0000] "GET /wp-content/plugins/unyson/framework/core/components/extensions/manager/static/unyson-font-icon/fonts/icomoon.woff?iganyx HTTP/2.0"  252 "https://me.sazumiviki.com/wp-content/plugins/unyson/framework/core/components/extensions/manager/static/unyson-font-icon/style.css?ver=2.7.26" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0" "114.5.104.27"
+
+114.5.104.27 - _uid=2D231FAC77A647626C507C1C02050303 - 304 BYPASS  - - [02/Apr/2022:11:06:05 +0000] "GET /wp-content/plugins/envato-market/fonts/envato-market.woff?20150626 HTTP/2.0"  252 "https://me.sazumiviki.com/wp-admin/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0" "114.5.104.27"
+
+114.5.104.27 - _uid=2D231FAC77A647626C507C1C02050303 - 200 BYPASS  - - [02/Apr/2022:11:06:06 +0000] "POST /wp-admin/admin-ajax.php HTTP/2.0"  891 "https://me.sazumiviki.com/wp-admin/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0" "114.5.104.27"
+
+3.105.116.110 - - - 200 BYPASS  - - [02/Apr/2022:11:17:15 +0000] "POST /wp-cron.php?doing_wp_cron=1648898234.9321570396423339843750 HTTP/2.0"  316 "https://me.sazumiviki.com/wp-cron.php?doing_wp_cron=1648898234.9321570396423339843750" "A9IecwAy5oIT" "3.105.116.110"
+
+114.5.104.27 - _uid=2D231FAC77A647626C507C1C02050303 - 200 BYPASS  - - [02/Apr/2022:11:17:16 +0000] "GET /wp-admin/plugins.php HTTP/2.0"  48038 "https://me.sazumiviki.com/wp-admin/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0" "114.5.104.27"
+
+114.5.104.27 - _uid=2D231FAC77A647626C507C1C02050303 - 200 BYPASS  - - [02/Apr/2022:11:17:17 +0000] "GET /wp-content/plugins/wp-rocket/assets/js/wpr-modal.js?ver=3.10.1 HTTP/2.0"  1865 "https://me.sazumiviki.com/wp-admin/plugins.php" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0" "114.5.104.27"
+
+114.5.104.27 - _uid=2D231FAC77A647626C507C1C02050303 - 302 BYPASS  - - [02/Apr/2022:11:17:22 +0000] "GET /wp-admin/plugins.php?action=deactivate&plugin=amp%2Famp.php&plugin_status=all&paged=1&s&_wpnonce=0b921ff9df HTTP/2.0"  428 "https://me.sazumiviki.com/wp-admin/plugins.php" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0" "114.5.104.27"
+
+114.5.104.27 - _uid=2D231FAC77A647626C507C1C02050303 - 200 BYPASS  - - [02/Apr/2022:11:17:22 +0000] "GET /wp-admin/plugins.php?deactivate=true&plugin_status=all&paged=1&s= HTTP/2.0"  47119 "https://me.sazumiviki.com/wp-admin/plugins.php" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0" "114.5.104.27"
+
+114.5.104.27 - _uid=2D231FAC77A647626C507C1C02050303 - 200 BYPASS  - - [02/Apr/2022:11:17:29 +0000] "POST /wp-admin/admin-ajax.php HTTP/2.0"  546 "https://me.sazumiviki.com/wp-admin/plugins.php?plugin_status=all&paged=1&s" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0" "114.5.104.27"
+
+114.5.104.27 - _uid=2D231FAC18C247624552906302DB0D03 - 304 BYPASS  - - [02/Apr/2022:11:17:54 +0000] "GET / HTTP/2.0"  252 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" "114.5.104.27"
